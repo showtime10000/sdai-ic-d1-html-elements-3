@@ -25,3 +25,7 @@ In the “Try It Yourself” lab, you’ll build upon the webpage structure from
 5. [ ] Inside that `div` element, add a subheader element (choose wisely) and another `p` element.
 6. [ ] In the subheader, copy and paste this copy inside it: `The Signature Dishes`.
 7. [ ] In the paragraph tag, copy and past this copy inside it: `The Number 1, The Other Number 1, and The Golden Ratio At Fibonacci’s Food Truck, the menu is a gastronomic tribute to the Fibonacci sequence. The Number 1 is a wrap filled with Buffalo chicken, romaine lettuce, tomatoes, carrots, ranch, and blue cheese. This classic dish sets the tone for the rest of the menu, much like the number 1 sets the stage in the Fibonacci sequence. The Other Number 1 is a delightful vegetarian variation of the first, featuring hummus, romaine lettuce, sun-dried tomatoes, Kalamata olives, feta cheese, and tzatziki sauce. But the star of the show is undoubtedly The Golden Ratio. These fries, drenched in cheese and topped with pastrami and other toppings, are a culinary representation of the golden ratio, a key element of the Fibonacci sequence. Each bite is a testament to the harmony that can be achieved when mathematics and gastronomy unite. At Fibonacci’s Food Truck, every dish is a delicious journey through the Fibonacci sequence. Count on Fibonnaci's for flavor!`.
+
+---
+
+🎊 **Fantastic work! You just finished your first ever solo HTML coding lab. Do a happy dance! 💃🏻🕺🏾** 🎊
