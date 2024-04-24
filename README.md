@@ -17,3 +17,7 @@ In the “Try It Yourself” lab, you’ll build upon the webpage structure from
 
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
+
+1. [ ] Wrap the `h1` element in a `div` element. 
+2. [ ] Wrap the two pairs of `h2` and `p` elements in the starter code in a `div` element. 
+3. [ ] In the section with the subheader **The Golden Spiral**, add another `p` tag, then cut and paste this copy inside of it: `
